@@ -1,5 +1,3 @@
-DOMAIN-SUFFIX,rfa.org
-DOMAIN-SUFFIX,voachinese.com
 DOMAIN-SUFFIX,pincong.rocks
 DOMAIN-SUFFIX,inmediahk.net
 DOMAIN-SUFFIX,xinshengproject.org
@@ -7,6 +5,8 @@ DOMAIN-SUFFIX,bannedbook.org
 DOMAIN-SUFFIX,talk.news.pts.org.tw
 DOMAIN-SUFFIX,creaders.net
 DOMAIN-SUFFIX,efcc.org
+DOMAIN-KEYWORD,voa
+DOMAIN-SUFFIX,rfa
 DOMAIN-KEYWORD,rfi
 DOMAIN-KEYWORD,dafahao
 DOMAIN-KEYWORD,minghui
