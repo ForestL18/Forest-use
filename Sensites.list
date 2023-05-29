@@ -6,8 +6,8 @@ DOMAIN-SUFFIX,talk.news.pts.org.tw
 DOMAIN-SUFFIX,creaders.net
 DOMAIN-SUFFIX,efcc.org
 DOMAIN-KEYWORD,voa
-DOMAIN-KEYWORD,rfa
-DOMAIN-KEYWORD,rfi
+DOMAIN-SUFFIX,rfa.org
+DOMAIN-SUFFIX,rfi.fr
 DOMAIN-KEYWORD,dafahao
 DOMAIN-KEYWORD,minghui
 DOMAIN-KEYWORD,dongtaiwang
@@ -22,7 +22,7 @@ DOMAIN-KEYWORD,elplural
 DOMAIN-KEYWORD,guerrillamail
 DOMAIN-KEYWORD,guerrillamailblock
 DOMAIN-KEYWORD,sharklasers
-DOMAIN-KEYWORD,grr
+DOMAIN-SUFFIX,globalrestructuringreview.com
 DOMAIN-KEYWORD,pokemail
 DOMAIN-KEYWORD,spam4
 DOMAIN-KEYWORD,bccto
