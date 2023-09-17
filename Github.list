@@ -34,4 +34,4 @@ DOMAIN-SUFFIX,rawgit.com,no-resolve
 DOMAIN-SUFFIX,rawgithub.com,no-resolve
 DOMAIN-SUFFIX,repo.new,no-resolve
 DOMAIN-SUFFIX,thegithubshop.com,no-resolve
-DOMAIN-KEYWORD,github,no-resolve
+DOMAIN-KEYWORD,github
