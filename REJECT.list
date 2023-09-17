@@ -1,17 +1,17 @@
 # MIUI安装检查 & avl & 反诈
-DOMAIN-SUFFIX,api.installer.xiaomi.com
-DOMAIN-SUFFIX,miui-fxcse.avlyun.com
-DOMAIN-SUFFIX,sdkconf.avlyun.com
-DOMAIN-SUFFIX,sdkconf.avlyun.com
-DOMAIN-SUFFIX,miav-cse.avlyun.com
-DOMAIN-SUFFIX,update.avlyun.sec.miui.com
-DOMAIN-SUFFIX,ixav-cse.avlyun.com
-DOMAIN-SUFFIX,logupdate.avlyun.sec.miui.com
-DOMAIN-SUFFIX,flash.sec.miui.com
-DOMAIN-SUFFIX,auth.be.sec.miui.com
+DOMAIN-SUFFIX,api.installer.xiaomi.com,no-resolve
+DOMAIN-SUFFIX,miui-fxcse.avlyun.com,no-resolve
+DOMAIN-SUFFIX,sdkconf.avlyun.com,no-resolve
+DOMAIN-SUFFIX,sdkconf.avlyun.com,no-resolve
+DOMAIN-SUFFIX,miav-cse.avlyun.com,no-resolve
+DOMAIN-SUFFIX,update.avlyun.sec.miui.com,no-resolve
+DOMAIN-SUFFIX,ixav-cse.avlyun.com,no-resolve
+DOMAIN-SUFFIX,logupdate.avlyun.sec.miui.com,no-resolve
+DOMAIN-SUFFIX,flash.sec.miui.com,no-resolve
+DOMAIN-SUFFIX,auth.be.sec.miui.com,no-resolve
 #OneTrack & Analytics & Ad
-DOMAIN-SUFFIX,data.mistat.xiaomi.com
-DOMAIN-SUFFIX,diagnosis.ad.xiaomi.com
-DOMAIN-SUFFIX,log.ad.xiaomi.com
-DOMAIN-SUFFIX,m.track.ad.xiaomi.com
-DOMAIN-SUFFIX,sdkconfig.ad.xiaomi.com
+DOMAIN-SUFFIX,data.mistat.xiaomi.com,no-resolve
+DOMAIN-SUFFIX,diagnosis.ad.xiaomi.com,no-resolve
+DOMAIN-SUFFIX,log.ad.xiaomi.com,no-resolve
+DOMAIN-SUFFIX,m.track.ad.xiaomi.com,no-resolve
+DOMAIN-SUFFIX,sdkconfig.ad.xiaomi.com,no-resolve
