@@ -28,7 +28,7 @@ DOMAIN-SUFFIX,telesco.pe,no-resolve
 DOMAIN-SUFFIX,tg.dev,no-resolve
 DOMAIN-SUFFIX,tx.me,no-resolve
 DOMAIN-SUFFIX,usercontent.dev,no-resolve
-DOMAIN-KEYWORD,nicegram,no-resolve
+DOMAIN-KEYWORD,nicegram
 IP-CIDR,109.239.140.0/24,no-resolve
 IP-CIDR,149.154.160.0/20,no-resolve
 IP-CIDR,5.28.195.163/32,no-resolve
