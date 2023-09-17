@@ -1,0 +1,37 @@
+# NAME: GitHub
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2023-07-20 23:20:04
+# DOMAIN-KEYWORD: 1
+# DOMAIN-SUFFIX: 29
+# TOTAL: 30
+DOMAIN-SUFFIX,atom.io,no-resolve
+DOMAIN-SUFFIX,dependabot.com,no-resolve
+DOMAIN-SUFFIX,ghcr.io,no-resolve
+DOMAIN-SUFFIX,git.io,no-resolve
+DOMAIN-SUFFIX,github-atom-io-herokuapp-com.freetls.fastly.net,no-resolve
+DOMAIN-SUFFIX,github-avatars.oss-cn-hongkong.aliyuncs.com,no-resolve
+DOMAIN-SUFFIX,github-cloud.s3.amazonaws.com,no-resolve
+DOMAIN-SUFFIX,github.blog,no-resolve
+DOMAIN-SUFFIX,github.com,no-resolve
+DOMAIN-SUFFIX,github.community,no-resolve
+DOMAIN-SUFFIX,github.dev,no-resolve
+DOMAIN-SUFFIX,github.io,no-resolve
+DOMAIN-SUFFIX,githubapp.com,no-resolve
+DOMAIN-SUFFIX,githubassets.com,no-resolve
+DOMAIN-SUFFIX,githubhackathon.com,no-resolve
+DOMAIN-SUFFIX,githubnext.com,no-resolve
+DOMAIN-SUFFIX,githubpreview.dev,no-resolve
+DOMAIN-SUFFIX,githubstatus.com,no-resolve
+DOMAIN-SUFFIX,githubuniverse.com,no-resolve
+DOMAIN-SUFFIX,githubusercontent.com,no-resolve
+DOMAIN-SUFFIX,myoctocat.com,no-resolve
+DOMAIN-SUFFIX,npm.community,no-resolve
+DOMAIN-SUFFIX,npmjs.com,no-resolve
+DOMAIN-SUFFIX,npmjs.org,no-resolve
+DOMAIN-SUFFIX,opensource.guide,no-resolve
+DOMAIN-SUFFIX,rawgit.com,no-resolve
+DOMAIN-SUFFIX,rawgithub.com,no-resolve
+DOMAIN-SUFFIX,repo.new,no-resolve
+DOMAIN-SUFFIX,thegithubshop.com,no-resolve
+DOMAIN-KEYWORD,github,no-resolve
