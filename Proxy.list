@@ -1,5 +1,5 @@
-DOMAIN-SUFFIX,m-team.cc
-#DOMAIN-KEYWORD,azureedge
-DOMAIN-SUFFIX,winget.microsoft.com
-DOMAIN-SUFFIX,xiaomi.eu
-DOMAIN-SUFFIX,ipleak.net
+DOMAIN-SUFFIX,m-team.cc,no-resolve
+#DOMAIN-KEYWORD,azureedge,no-resolve
+DOMAIN-SUFFIX,winget.microsoft.com,no-resolve
+DOMAIN-SUFFIX,xiaomi.eu,no-resolve
+DOMAIN-SUFFIX,ipleak.net,no-resolve
