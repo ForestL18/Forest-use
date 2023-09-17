@@ -729,11 +729,11 @@ DOMAIN-SUFFIX,zukunftswerkstatt.de,no-resolve
 DOMAIN-SUFFIX,zynamics.com,no-resolve
 DOMAIN-SUFFIX,googledrive.com,no-resolve
 DOMAIN-SUFFIX,googleusercontent.com,no-resolve
-DOMAIN-KEYWORD,appspot,no-resolve
-DOMAIN-KEYWORD,blogspot,no-resolve
-DOMAIN-KEYWORD,gmail,no-resolve
-DOMAIN-KEYWORD,google,no-resolve
-DOMAIN-KEYWORD,recaptcha,no-resolve
+DOMAIN-KEYWORD,appspot
+DOMAIN-KEYWORD,blogspot
+DOMAIN-KEYWORD,gmail
+DOMAIN-KEYWORD,google
+DOMAIN-KEYWORD,recaptcha
 IP-CIDR,172.110.32.0/21,no-resolve
 IP-CIDR,173.194.0.0/16,no-resolve
 IP-CIDR,216.73.80.0/20,no-resolve
