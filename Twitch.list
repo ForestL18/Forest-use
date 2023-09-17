@@ -16,7 +16,7 @@ DOMAIN-SUFFIX,twitch-ext.rootonline.de,no-resolve
 DOMAIN-SUFFIX,twitch.tv,no-resolve
 DOMAIN-SUFFIX,twitchcdn.net,no-resolve
 DOMAIN-SUFFIX,twitchsvc.net,no-resolve
-DOMAIN-KEYWORD,ttvnw,no-resolve
+DOMAIN-KEYWORD,ttvnw
 IP-CIDR,103.53.48.0/23,no-resolve
 IP-CIDR,185.42.204.0/22,no-resolve
 IP-CIDR,192.108.239.0/24,no-resolve
