@@ -1,17 +1,20 @@
-# 内容：OpenAi
-# 数量：14条
-DOMAIN-KEYWORD,openai
-DOMAIN-SUFFIX,ai.com
-DOMAIN-SUFFIX,auth0.com
-DOMAIN-SUFFIX,challenges.cloudflare.com
-DOMAIN-SUFFIX,client-api.arkoselabs.com
-DOMAIN-SUFFIX,events.statsigapi.net
-DOMAIN-SUFFIX,featuregates.org
-DOMAIN-SUFFIX,identrust.com
-DOMAIN-SUFFIX,intercom.io
-DOMAIN-SUFFIX,intercomcdn.com
-DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,openaiapi-site.azureedge.net
-DOMAIN-SUFFIX,sentry.io
-DOMAIN-SUFFIX,stripe.com
-DOMAIN-SUFFIX,browser-intake-datadoghq.com
+# NAME: OpenAI
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2023-07-20 23:25:19
+# DOMAIN-KEYWORD: 1
+# DOMAIN-SUFFIX: 12
+# TOTAL: 13
+DOMAIN-SUFFIX,ai.com,no-resolve
+DOMAIN-SUFFIX,auth0.com,no-resolve
+DOMAIN-SUFFIX,challenges.cloudflare.com,no-resolve
+DOMAIN-SUFFIX,client-api.arkoselabs.com,no-resolve
+DOMAIN-SUFFIX,events.statsigapi.net,no-resolve
+DOMAIN-SUFFIX,featuregates.org,no-resolve
+DOMAIN-SUFFIX,identrust.com,no-resolve
+DOMAIN-SUFFIX,intercom.io,no-resolve
+DOMAIN-SUFFIX,intercomcdn.com,no-resolve
+DOMAIN-SUFFIX,poe.com,no-resolve
+DOMAIN-SUFFIX,sentry.io,no-resolve
+DOMAIN-SUFFIX,stripe.com,no-resolve
+DOMAIN-KEYWORD,openai,no-resolve
