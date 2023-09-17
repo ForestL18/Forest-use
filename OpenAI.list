@@ -7,7 +7,7 @@
 # TOTAL: 13
 DOMAIN-SUFFIX,ai.com,no-resolve
 DOMAIN-SUFFIX,auth0.com,no-resolve
-DOMAIN-SUFFIX,challenges.cloudflare.com,no-resolve
+# DOMAIN-SUFFIX,challenges.cloudflare.com,no-resolve
 DOMAIN-SUFFIX,client-api.arkoselabs.com,no-resolve
 DOMAIN-SUFFIX,events.statsigapi.net,no-resolve
 DOMAIN-SUFFIX,featuregates.org,no-resolve
@@ -17,4 +17,4 @@ DOMAIN-SUFFIX,intercomcdn.com,no-resolve
 DOMAIN-SUFFIX,poe.com,no-resolve
 DOMAIN-SUFFIX,sentry.io,no-resolve
 DOMAIN-SUFFIX,stripe.com,no-resolve
-DOMAIN-KEYWORD,openai,no-resolve
+DOMAIN-KEYWORD,openai
