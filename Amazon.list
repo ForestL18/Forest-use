@@ -169,7 +169,7 @@ DOMAIN-SUFFIX,xn--jlq480n2rg,no-resolve
 DOMAIN-SUFFIX,yamaxun,no-resolve
 DOMAIN-SUFFIX,yamaxun.com,no-resolve
 DOMAIN-SUFFIX,zappos,no-resolve
-DOMAIN-KEYWORD,avoddashs,no-resolve
+DOMAIN-KEYWORD,avoddashs
 IP-CIDR,13.32.0.0/15,no-resolve
 IP-CIDR,13.35.0.0/17,no-resolve
 IP-CIDR,18.184.0.0/15,no-resolve
