@@ -1,0 +1,41 @@
+# NAME: Twitterco$
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2023-07-31 02:11:11
+# DOMAIN-KEYWORD: 1
+# DOMAIN-SUFFIX: 25
+# IP-CIDR: 7
+# TOTAL: 33
+DOMAIN-SUFFIX,ads-twitter.com,no-resolve
+DOMAIN-SUFFIX,cms-twdigitalassets.com,no-resolve
+DOMAIN-SUFFIX,periscope.tv,no-resolve
+DOMAIN-SUFFIX,pscp.tv,no-resolve
+DOMAIN-SUFFIX,t.co,no-resolve
+DOMAIN-SUFFIX,tellapart.com,no-resolve
+DOMAIN-SUFFIX,tweetdeck.com,no-resolve
+DOMAIN-SUFFIX,twimg.co,no-resolve
+DOMAIN-SUFFIX,twimg.com,no-resolve
+DOMAIN-SUFFIX,twimg.org,no-resolve
+DOMAIN-SUFFIX,twitpic.com,no-resolve
+DOMAIN-SUFFIX,twitter.biz,no-resolve
+DOMAIN-SUFFIX,twitter.com,no-resolve
+DOMAIN-SUFFIX,twitter.jp,no-resolve
+DOMAIN-SUFFIX,twittercommunity.com,no-resolve
+DOMAIN-SUFFIX,twitterflightschool.com,no-resolve
+DOMAIN-SUFFIX,twitterinc.com,no-resolve
+DOMAIN-SUFFIX,twitteroauth.com,no-resolve
+DOMAIN-SUFFIX,twitterstat.us,no-resolve
+DOMAIN-SUFFIX,twtrdns.net,no-resolve
+DOMAIN-SUFFIX,twttr.com,no-resolve
+DOMAIN-SUFFIX,twttr.net,no-resolve
+DOMAIN-SUFFIX,twvid.com,no-resolve
+DOMAIN-SUFFIX,vine.co,no-resolve
+DOMAIN-SUFFIX,x.com,no-resolve
+DOMAIN-KEYWORD,twitter,no-resolve
+IP-CIDR,192.133.76.0/22,no-resolve
+IP-CIDR,199.16.156.0/22,no-resolve
+IP-CIDR,199.59.148.0/22,no-resolve
+IP-CIDR,199.96.56.0/21,no-resolve
+IP-CIDR,202.160.128.0/22,no-resolve
+IP-CIDR,209.237.192.0/19,no-resolve
+IP-CIDR,69.195.160.0/19,no-resolve
