@@ -553,8 +553,8 @@ DOMAIN-SUFFIX,wwwmfacebook.com,no-resolve
 DOMAIN-SUFFIX,yogalayout.com,no-resolve
 DOMAIN-SUFFIX,zuckerberg.com,no-resolve
 DOMAIN-SUFFIX,zuckerberg.net,no-resolve
-DOMAIN-KEYWORD,facebook,no-resolve
-DOMAIN-KEYWORD,fbcdn,no-resolve
+DOMAIN-KEYWORD,facebook
+DOMAIN-KEYWORD,fbcdn
 IP-CIDR,108.168.176.192/26,no-resolve
 IP-CIDR,108.168.177.0/27,no-resolve
 IP-CIDR,108.168.180.96/27,no-resolve
