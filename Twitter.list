@@ -31,7 +31,7 @@ DOMAIN-SUFFIX,twttr.net,no-resolve
 DOMAIN-SUFFIX,twvid.com,no-resolve
 DOMAIN-SUFFIX,vine.co,no-resolve
 DOMAIN-SUFFIX,x.com,no-resolve
-DOMAIN-KEYWORD,twitter,no-resolve
+DOMAIN-KEYWORD,twitter
 IP-CIDR,192.133.76.0/22,no-resolve
 IP-CIDR,199.16.156.0/22,no-resolve
 IP-CIDR,199.59.148.0/22,no-resolve
