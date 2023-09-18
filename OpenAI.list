@@ -5,16 +5,16 @@
 # DOMAIN-KEYWORD: 1
 # DOMAIN-SUFFIX: 12
 # TOTAL: 13
-DOMAIN-SUFFIX,ai.com,no-resolve
-DOMAIN-SUFFIX,auth0.com,no-resolve
-# DOMAIN-SUFFIX,challenges.cloudflare.com,no-resolve
-DOMAIN-SUFFIX,client-api.arkoselabs.com,no-resolve
-DOMAIN-SUFFIX,events.statsigapi.net,no-resolve
-DOMAIN-SUFFIX,featuregates.org,no-resolve
-DOMAIN-SUFFIX,identrust.com,no-resolve
-DOMAIN-SUFFIX,intercom.io,no-resolve
-DOMAIN-SUFFIX,intercomcdn.com,no-resolve
-DOMAIN-SUFFIX,poe.com,no-resolve
-DOMAIN-SUFFIX,sentry.io,no-resolve
-DOMAIN-SUFFIX,stripe.com,no-resolve
+DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,auth0.com
+# DOMAIN-SUFFIX,challenges.cloudflare.com
+DOMAIN-SUFFIX,client-api.arkoselabs.com
+DOMAIN-SUFFIX,events.statsigapi.net
+DOMAIN-SUFFIX,featuregates.org
+DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,poe.com
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,stripe.com
 DOMAIN-KEYWORD,openai
