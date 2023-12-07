@@ -1,0 +1,10 @@
+# NAME: JP_Non_Sites
+payload:
+  - DOMAIN-SUFFIX,javdb.com
+  - DOMAIN-SUFFIX,jdbstatic.com
+  - DOMAIN-SUFFIX,javmenu.net
+  - DOMAIN-SUFFIX,u65w.com
+  - DOMAIN-SUFFIX,h68g.com
+  - DOMAIN-SUFFIX,2img.net
+  - DOMAIN-SUFFIX,javrocket.top
+  - DOMAIN-SUFFIX,playno1.com
