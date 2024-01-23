@@ -8,3 +8,4 @@ payload:
   - DOMAIN-SUFFIX,ipinfo.io
   - DOMAIN-SUFFIX,dnsleaktest.com
   - DOMAIN-KEYWORD,winget
+  - DOMAIN-SUFFIX,googleapis.cn
