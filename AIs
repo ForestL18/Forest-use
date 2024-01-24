@@ -1,0 +1,6 @@
+# NAME: AIs
+payload:
+  #- DOMAIN-KEYWORD,winget
+  - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,copilot.microsoft.com
+  - DOMAIN-SUFFIX,bard.google.com
