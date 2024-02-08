@@ -2,6 +2,7 @@
 payload:
   #- DOMAIN-KEYWORD,winget
   - DOMAIN-SUFFIX,bard.google.com
+  - DOMAIN-SUFFIX,gemini.google.com
   - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,copilot.microsoft.com
   - DOMAIN-SUFFIX,designer.microsoft.com
