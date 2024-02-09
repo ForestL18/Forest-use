@@ -9,7 +9,7 @@ payload:
   - DOMAIN-SUFFIX,update.avlyun.sec.miui.com
   - DOMAIN-SUFFIX,ixav-cse.avlyun.com
   - DOMAIN-SUFFIX,logupdate.avlyun.sec.miui.com
-  - DOMAIN-SUFFIX,flash.sec.miui.com
+  - DOMAIN-SUFFIX,sec.miui.com
   - DOMAIN-SUFFIX,auth.be.sec.miui.com
 #OneTrack & Analytics & Ad
   - DOMAIN-SUFFIX,data.mistat.xiaomi.com
