@@ -6,13 +6,11 @@ payload:
   - DOMAIN-SUFFIX,steamserver.net
   - DOMAIN-SUFFIX,xiaoya.pro
   - DOMAIN-SUFFIX,ip138.com
+  - DOMAIN-SUFFIX,ipify.org
   - DOMAIN-SUFFIX,pool.ntp.org
   - DOMAIN-SUFFIX,3gppnetwork.org
   - DOMAIN-SUFFIX,uypofm.lol
-  - DOMAIN-SUFFIX,storage.live.com
-  - DOMAIN-SUFFIX,data.microsoft.com
   - DOMAIN-SUFFIX,willghost.com
-  - DOMAIN-SUFFIX,push.apple.com
   - DOMAIN-SUFFIX,xen.network
   - DOMAIN-SUFFIX,slardar-bd.larksuite.com
   - DOMAIN-SUFFIX,quantum-air.xyz
