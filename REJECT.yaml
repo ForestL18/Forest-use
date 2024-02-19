@@ -17,3 +17,4 @@ payload:
   - DOMAIN-SUFFIX,log.ad.xiaomi.com
   - DOMAIN-SUFFIX,m.track.ad.xiaomi.com
   - DOMAIN-SUFFIX,sdkconfig.ad.xiaomi.com
+  - DOMAIN-SUFFIX,api.liquidlink.cn
