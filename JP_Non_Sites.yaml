@@ -8,4 +8,4 @@ payload:
   - DOMAIN-SUFFIX,api.hechuangxinxi.xyz
   - DOMAIN-SUFFIX,api.liquidlink.cn
   - DOMAIN-SUFFIX,h.jinfan-keji.com
-  - DOMAIN-SUFFIX,jdforrepam.com
+  #- DOMAIN-SUFFIX,jdforrepam.com
