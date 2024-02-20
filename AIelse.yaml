@@ -1,11 +1,9 @@
 # NAME: AIs
 payload:
-  #- DOMAIN-KEYWORD,winget
-  - DOMAIN-SUFFIX,bard.google.com
-  - DOMAIN-SUFFIX,gemini.google.com
-  - DOMAIN-SUFFIX,bing.com
-  - DOMAIN-SUFFIX,copilot.microsoft.com
-  - DOMAIN-SUFFIX,designer.microsoft.com
-  - DOMAIN-SUFFIX,clarity.ms
-  - DOMAIN-SUFFIX,aefd.nelreports.net
-
+- "+.bard.google.com"
+- "+.gemini.google.com"
+- "+.bing.com"
+- "+.copilot.microsoft.com"
+- "+.designer.microsoft.com"
+- "+.clarity.ms"
+- "+.aefd.nelreports.net"
