@@ -14,7 +14,7 @@ payload:
 - "+.adv.sec.miui.com"
 - "+.api.ad.xiaomi.com"
 - "+.beacon-api.aliyuncs.com"
-- "+.updateinfo.market.xiaomi.com"
+#- "+.updateinfo.market.xiaomi.com"
 #OneTrack & Analytics & Ad
 - "+.data.mistat.xiaomi.com"
 - "+.diagnosis.ad.xiaomi.com"
