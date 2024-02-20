@@ -1,19 +1,17 @@
 # NAME: DIRECT
 payload:
 # Direct website
-#  - DOMAIN,ap-gae2.spotify.com
-#  - DOMAIN,api.steampowered.com
-  - DOMAIN-SUFFIX,steamserver.net
-  - DOMAIN-SUFFIX,xiaoya.pro
-  - DOMAIN-SUFFIX,ip138.com
-  - DOMAIN-SUFFIX,ipify.org
-  - DOMAIN-SUFFIX,pool.ntp.org
-  - DOMAIN-SUFFIX,3gppnetwork.org
-  - DOMAIN-SUFFIX,uypofm.lol
-  - DOMAIN-SUFFIX,willghost.com
-  - DOMAIN-SUFFIX,xen.network
-  - DOMAIN-SUFFIX,slardar-bd.larksuite.com
-  - DOMAIN-SUFFIX,quantum-air.xyz
-  - DOMAIN-SUFFIX,rewnat.xyz
-  - DOMAIN-SUFFIX,nxtlnodes.com
-  - DOMAIN-SUFFIX,time.is
+- "+.steamserver.net"
+- "+.xiaoya.pro"
+- "+.ip138.com"
+- "+.ipify.org"
+- "+.pool.ntp.org"
+- "+.3gppnetwork.org"
+- "+.uypofm.lol"
+- "+.willghost.com"
+- "+.xen.network"
+- "+.slardar-bd.larksuite.com"
+- "+.quantum-air.xyz"
+- "+.rewnat.xyz"
+- "+.nxtlnodes.com"
+- "+.time.is"
