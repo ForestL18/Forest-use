@@ -1,11 +1,10 @@
 # NAME: JP_Non_Sites
 payload:
-  - DOMAIN-SUFFIX,javdb.com
-  - DOMAIN-SUFFIX,jdbstatic.com
-  - DOMAIN-SUFFIX,playno1.com
-  - DOMAIN-KEYWORD,javdb
-  - DOMAIN-SUFFIX,tp.belle-vie.xyz
-  - DOMAIN-SUFFIX,api.hechuangxinxi.xyz
-  #- DOMAIN-SUFFIX,api.liquidlink.cn
-  - DOMAIN-SUFFIX,h.jinfan-keji.com
-  #- DOMAIN-SUFFIX,jdforrepam.com
+  - "+.javdb.com"
+  - "+.jdbstatic.com"
+  - "+.playno1.com"
+  - "+.tp.belle-vie.xyz"
+  - "+.api.hechuangxinxi.xyz"
+  #- "+.api.liquidlink.cn"
+  - "+.h.jinfan-keji.com"
+  #- "+.jdforrepam.com"
