@@ -1,5 +1,5 @@
 # NAME: ApplePodcast
 payload:
-  - DOMAIN-SUFFIX,apple.co
-  - DOMAIN-SUFFIX,podcasts.apple.com
-  - DOMAIN-SUFFIX,podcasters.apple.com
+- "+.apple.co"
+- "+.podcasts.apple.com"
+- "+.podcasters.apple.com"
