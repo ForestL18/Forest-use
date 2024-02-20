@@ -1,20 +1,25 @@
 # NAME: REJECT
 payload:
 # MIUI安装检查 & avl & 反诈
-  - DOMAIN-SUFFIX,api.installer.xiaomi.com
-  - DOMAIN-SUFFIX,miui-fxcse.avlyun.com
-  - DOMAIN-SUFFIX,sdkconf.avlyun.com
-  - DOMAIN-SUFFIX,sdkconf.avlyun.com
-  - DOMAIN-SUFFIX,miav-cse.avlyun.com
-  - DOMAIN-SUFFIX,update.avlyun.sec.miui.com
-  - DOMAIN-SUFFIX,ixav-cse.avlyun.com
-  - DOMAIN-SUFFIX,logupdate.avlyun.sec.miui.com
-  - DOMAIN-SUFFIX,virus-engine.sec.miui.com
-  - DOMAIN-SUFFIX,auth.be.sec.miui.com
+- "+.api.installer.xiaomi.com"
+- "+.miui-fxcse.avlyun.com"
+- "+.sdkconf.avlyun.com"
+- "+.sdkconf.avlyun.com"
+- "+.miav-cse.avlyun.com"
+- "+.update.avlyun.sec.miui.com"
+- "+.ixav-cse.avlyun.com"
+- "+.logupdate.avlyun.sec.miui.com"
+- "+.virus-engine.sec.miui.com"
+- "+.auth.be.sec.miui.com"
+- "+.adv.sec.miui.com"
+- "+.api.ad.xiaomi.com"
+- "+.beacon-api.aliyuncs.com"
+- "+.updateinfo.market.xiaomi.com"
 #OneTrack & Analytics & Ad
-  - DOMAIN-SUFFIX,data.mistat.xiaomi.com
-  - DOMAIN-SUFFIX,diagnosis.ad.xiaomi.com
-  - DOMAIN-SUFFIX,log.ad.xiaomi.com
-  - DOMAIN-SUFFIX,m.track.ad.xiaomi.com
-  - DOMAIN-SUFFIX,sdkconfig.ad.xiaomi.com
-  - DOMAIN-SUFFIX,api.liquidlink.cn
+- "+.data.mistat.xiaomi.com"
+- "+.diagnosis.ad.xiaomi.com"
+- "+.log.ad.xiaomi.com"
+- "+.m.track.ad.xiaomi.com"
+- "+.sdkconfig.ad.xiaomi.com"
+#- "tracking.miui.com"
+- "+.api.liquidlink.cn"
