@@ -1,5 +1,15 @@
 # NAME: DIRECT
 payload:
+# TestUrl
+- "cp.cloudflare.com"
+- "detectportal.firefox.com"
+- "+.ts.net"
+- "+.msftncsi.com"
+- "+.msftconnecttest.com"
+- "+.test.steampowered.com"
+- "+.networkcheck.kde.org"
+- "+.connectivitycheck.gstatic.com"
+- "+.captive.apple.com"
 # Direct website
 - "+.steamserver.net"
 - "+.xiaoya.pro"
