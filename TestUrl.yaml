@@ -13,8 +13,8 @@ payload:
 # Mozilla Location Service
 - "+.location.services.mozilla.com"
 # QQ SSO for quick login
-- "+.localhost.sec.qq.com"
-- "+.localhost.ptlogin2.qq.com"
+#- "+.localhost.sec.qq.com"
+#- "+.localhost.ptlogin2.qq.com"
 # Steam Deck Game mode
 - "+.test.steampowered.com"
 # Windows
