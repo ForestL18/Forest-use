@@ -20,6 +20,6 @@ payload:
 - "+.diagnosis.ad.xiaomi.com"
 - "+.log.ad.xiaomi.com"
 - "+.m.track.ad.xiaomi.com"
-- "+.sdkconfig.ad.xiaomi.com"
+#- "+.sdkconfig.ad.xiaomi.com"
 #- "tracking.miui.com"
 - "+.api.liquidlink.cn"
